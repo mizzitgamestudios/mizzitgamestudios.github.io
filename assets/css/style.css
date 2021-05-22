@@ -630,8 +630,8 @@ section {
 }
 
 .featured-services .icon-box:hover .title a {
-  color: #074c61;
-  color: #000;
+  color: #1abcee;
+  color: rgb(19, 208, 255);
 }
 
 .featured-services .description {
